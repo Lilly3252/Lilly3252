@@ -20,7 +20,6 @@ Commits: 167
 Stars: 5
 Discord: lilith#3252
 ```
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
