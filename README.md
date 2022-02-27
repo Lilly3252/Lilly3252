@@ -9,9 +9,9 @@ lilly_information@github
 -------------------------
 OS: Linux Mint 20.3 x86_64
 Shell: bash 5.0.17
-Birth: 29 years ago
-Pronouns: She/Her 🚺
-Location: Quebec, Canada
+Birth: 🎂 29 years ago
+Pronouns: 🚺 She/Her
+Location: 🇨🇦 Quebec, Canada
 Frameworks: None
 Languages: JavaScript
 Learning: Node.js
