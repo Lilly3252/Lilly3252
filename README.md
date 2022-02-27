@@ -29,6 +29,6 @@ Discord: lilith#3252
 <a href="https://discord.com/users/165922734461812736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lilith#3252" height="30" width="40" /></a>
 </p>
 <p align="right">
-<img src="https://github.com/Lilly3252/Lilly3252/blob/output/github-contribution-grid-snake.svg" width="550"/></p>
+<img src="https://github.com/Lilly3252/Lilly3252/blob/output/github-contribution-grid-snake.svg" width="540"/></p>
 
 
