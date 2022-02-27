@@ -18,7 +18,7 @@ Learning: Node.js
 Hobbies: Sleeping, Movies, Gaming, Eating
 Commits: 167
 Stars: 5
-Discord: lilith#3252
+Discord: Lilith#3252
 ```
 
 <h3 align="left">Connect with me:</h3>
