@@ -16,7 +16,7 @@ Frameworks: None
 Languages: JavaScript
 Learning: Node.js
 Hobbies: Sleeping, Movies, Gaming, Eating
-Commits: 167
+Commits: 208
 Stars: 5
 Discord: Lilith#3252
 ```
