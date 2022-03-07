@@ -12,11 +12,11 @@ Shell: bash 5.0.17
 Birth: 🎂 29 years ago
 Pronouns: 🚺 She/Her
 Location: 🇨🇦 Quebec, Canada
-Frameworks: None
-Languages: JavaScript
+Frameworks: react.js
+Languages: JavaScript , typescript
 Learning: Node.js
 Hobbies: Sleeping, Movies, Gaming, Eating
-Commits: 208
+Commits: 252
 Stars: 5
 Discord: Lilith#3252
 ```
