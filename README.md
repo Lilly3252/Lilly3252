@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://scontent.fymq2-1.fna.fbcdn.net/v/t1.6435-9/185128158_10223265745284685_3004884699692427762_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=YpCFqCz-bO8AX-Vt57o&tn=AsxXFMvdluhvWDJu&_nc_ht=scontent.fymq2-1.fna&oh=00_AT__xNHynI2IEUZbp7ylBjYZdVq3nTl7e0lUsYhHCcfItw&oe=6242E032" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="300" /> 
+<img align="left" src="https://scontent.fymq2-1.fna.fbcdn.net/v/t1.6435-9/185128158_10223265745284685_3004884699692427762_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=YpCFqCz-bO8AX-Vt57o&tn=AsxXFMvdluhvWDJu&_nc_ht=scontent.fymq2-1.fna&oh=00_AT__xNHynI2IEUZbp7ylBjYZdVq3nTl7e0lUsYhHCcfItw&oe=6242E032" width="300" /> 
 
 ```csharp
 lilly_information@github
@@ -13,10 +13,10 @@ Birth: 🎂 29 years ago
 Pronouns: 🚺 She/Her
 Location: 🇨🇦 Quebec, Canada
 Frameworks: react.js
-Languages: JavaScript , typescript
+Languages: JavaScript , Typescript
 Learning: Node.js
 Hobbies: Sleeping, Movies, Gaming, Eating
-Commits: 252
+Commits: Enough..
 Stars: 5
 Discord: Lilith#3252
 ```
