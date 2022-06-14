@@ -14,7 +14,7 @@ Pronouns: 🚺 She/Her
 Location: 🇨🇦 Quebec, Canada
 Frameworks: react.js
 Languages: JavaScript , Typescript
-Learning: Node.js
+Learning: Something?
 Hobbies: Sleeping, Movies, Gaming, Eating
 Commits: Enough..
 Stars: 5
