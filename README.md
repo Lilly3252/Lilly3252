@@ -1,6 +1,8 @@
 ```zsh
 > neofetch
+
 ```
+<img align="left" src="https://user-images.githubusercontent.com/74218901/173695677-df33de07-b48e-4bdf-91db-c52d8c865a0e.png" width="300" /> 
 
 ```csharp
 lilly_information@github
