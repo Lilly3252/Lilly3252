@@ -17,7 +17,6 @@ Languages: JavaScript , Typescript
 Learning: Something?
 Hobbies: Sleeping, Movies, Gaming, Eating
 Commits: Enough..
-Stars: 5
 Discord: Lilith#3252
 ```
 
