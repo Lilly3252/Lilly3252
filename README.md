@@ -22,10 +22,9 @@ Discord: Lilith#3252
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/awakening.nightmares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awakening.nightmares" height="30" width="40" /></a>
 <a href="https://instagram.com/lilithximmaculate666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lilithximmaculate666" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lauriane veilleux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lauriane veilleux" height="30" width="40" /></a>
 <a href="https://discord.com/users/165922734461812736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lilith#3252" height="30" width="40" /></a>
-<img src="https://github.com/Lilly3252/Lilly3252/blob/output/github-contribution-grid-snake.svg" width="500"/></p>
+
 
 
