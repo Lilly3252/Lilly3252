@@ -17,7 +17,7 @@ Languages: JavaScript , Typescript
 Learning: Something?
 Hobbies: Sleeping, Movies, Gaming, Eating
 Commits: Enough..
-Discord: Lilith#3252
+Discord: lilith_nosya
 ```
 
 <h3 align="left">Connect with me:</h3>
