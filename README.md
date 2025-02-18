@@ -7,8 +7,8 @@
 ```csharp
 lilly_information@github
 -------------------------
-OS:  Windows 11 Pro [64 bit]
-Shell: PowerShell v7.3.6
+OS:  EndeavourOS Linux x86_64 
+Shell: bash 5.2.37
 Birth: 🎂 30 years ago
 Pronouns: 🚺 She/Her
 Location: 🇨🇦 Quebec, Canada
